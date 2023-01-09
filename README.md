@@ -1,6 +1,6 @@
 # KMeans++
 
-Python3 implementation of the k-means++ algorithm, a common unsupervised machine learning clustering algorithm. 
+A Python3 implementation of the k-means++ algorithm, a commonly used unsupervised machine learning clustering algorithm.
 
 The data used for demonstation is based on the [IRIS](https://archive.ics.uci.edu/ml/datasets/iris) dataset from the UCI Machine Learning Repository.
 
